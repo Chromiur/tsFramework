@@ -1,5 +1,5 @@
 
-export const DONATE_BUTTON ="donate-button-heart-icon";
+export const DONATE_BUTTON ="donate-button-label";
 export const MONTHLY_BUTTON_ID = 'more-frequent-button';
 export const CURRENCY_BUTTON_ID = 'currency-selector';
 export const CURRENCY_BUTTON_CSS = "#select[data-qa='currency-selector']"; 
